@@ -8,5 +8,7 @@ git status: وضعیت استیج رو نشون میده و اینکه رو کد
 
 git commit -m "enter some massage": کامیت کردن اونایی که توی استیج هستن 
 
-git commit -a -m "enter some message": همزمان هم فایل هارو توی استیج ذخیره میکنه و بلافاصله کامیت میکنه 
+git commit -a -m "enter some message": همزمان هم فایل هارو توی استیج ذخیره میکنه و بلافاصله کامیت میکنه
+
+k 
 
